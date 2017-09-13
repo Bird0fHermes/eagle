@@ -1,0 +1,31 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.8.18)  12 SEP 2017 15:10
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**template.tex
+(./template.tex
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 2014/09/29 v1.2z Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\longindentation=\dimen102
+\indentedwidth=\dimen103
+\labelcount=\count79
+)
+./template.tex:3: Undefined control sequence.
+l.3 \Who
+        {Max Briggs} 
+Here is how much of TeX's memory you used:
+ 131 strings out of 492990
+ 1318 string characters out of 6138688
+ 54148 words of memory out of 5000000
+ 3781 multiletter control sequences out of 15000+600000
+ 3940 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 21i,0n,19p,114b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+./template.tex:3:  ==> Fatal error occurred, no output PDF file produced!
